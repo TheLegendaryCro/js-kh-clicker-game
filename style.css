@@ -1,0 +1,38 @@
+body {
+ background-color: #222;
+}
+
+.container {
+  padding:5px 30px 30px 30px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  border:solid white 1px;
+  border-radius:5px;
+  background: url("bgk1.png");
+  text-align:center;
+}
+
+button {
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+.btn-success, .btn-danger {
+  width:200px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h3 {
+  margin-top: 70px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+td {
+  font-size: 20px;
+}
